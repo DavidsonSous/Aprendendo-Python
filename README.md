@@ -1,8 +1,9 @@
-FINALIDADE 
-Este repositório tem por finalidade deixar registrado o meu aprendizado e evolução na linguagem Python. Apesar de ter aulas na faculdade de Banco de Dados, complemento meu estudo com aulas do Prof. Guanabara, do Curso em vídeo. E estas aulas aqui registradas bem como seus exercícios, são baseados no que o professor Guanabara propõe.
+# 1.  **_FINALIDADE_** 
 
-SOBRE AULAS
+*Este repositório tem por finalidade deixar registrado o meu aprendizado e evolução na linguagem Python. Apesar de ter aulas na faculdade de Banco de Dados, complemento meu estudo com aulas do Prof. Guanabara, do Curso em vídeo. E estas aulas aqui registradas bem como seus exercícios, são baseados no que o professor Guanabara propõe.*
 
-Aula 6
+# 2. **_SOBRE AULAS_**
 
-Esta aula é sobre Tipos Primitivos. O professor passou toda a parte teórica e com alguns exercícios de fixação.
+**2.1 - _Aula 6 Tipos Primitivos_**
+
+*Esta aula é sobre Tipos Primitivos. O professor passou toda a parte teórica e com alguns exercícios de fixação.*
