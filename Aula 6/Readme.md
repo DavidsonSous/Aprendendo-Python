@@ -1,0 +1,1 @@
+Esta aula é sobre Tipos Primitivos. O professor passou toda a parte teórica e com alguns exercícios de fixação.
