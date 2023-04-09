@@ -2,7 +2,7 @@
 
 teste = (input('Digite algo: '))
 print(teste)
-print(' ')
+print('  ')
 print(f'O que você digitou é do tipo: {type(teste)}')
 print('Tem espaços?: ', teste.isspace())
 print('É um número?: ', teste.isnumeric())
