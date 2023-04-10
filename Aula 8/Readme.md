@@ -4,8 +4,16 @@
 
 _ANOTAÇÕES_
 
-**_ _**
-
+**_Import_**
+* _Basta dar o comando "Import" para adicionar bibliotecas. IMPORT ... importa tudo que está naquela biblioteca, enquanto ...IMPORT importa apenas o que quero especificamente. **Ex: Import Bebida = vai importar tudo que está na biblioteca "Bebida" / From Bebiba import Suco = vai importar apenas o suco que está na biblioteca Bebida**_
 
 #**_LEMBRETES_**
+
+#**_Math:_**
+* ceil = arredonda pra cima
+* floor = arredonda pra baixo
+* trunc = trunca o número, elimina da vírgula pra frente
+* pow = power, potência... similar aos **
+* sqrt = raíz quadrada
+* factoria = cálculo fatorial
 
