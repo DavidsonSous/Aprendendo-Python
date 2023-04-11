@@ -28,4 +28,3 @@ image.png
 #_CALCULAR PORCENTAGEM_
 
 * _Quando tiver qualquer exercício de porcentagem, primeiro precisamos saber quanto é o valor em porcentagem do preço total, a dica é fazer a lógica cruzada, exemplo: Quanto é 5% de R$ 10,00? Só fazer o cálculo: 10*5/100. Depois, faz o cálculo de aumento: preço - (preço*5/100) OU aumento: preço + (preço*5/100)_
-
