@@ -23,7 +23,7 @@ Ordem de Precedência
 
 image.png image.png
 
-*_Lembretes_*
+**_Lembretes_**
 
 Quando eu quiser quebrar uma linha: \n
 
@@ -33,4 +33,4 @@ Quando eu quiser limitar o número de casas decimais, basta usar {:.númerof}
 
 _Calcular Porcentagem_
 
-*Quando tiver qualquer exercício de porcentagem, primeiro precisamos saber quanto é o valor em porcentagem do preço total, a dica é fazer a lógica cruzada*, **exemplo: Quanto é 5% de R$ 10,00? Só fazer o cálculo: 105/100. Depois, faz o cálculo de aumento: preço - (preço5/100) OU aumento: preço + (preço*5/100)**
+*Quando tiver qualquer exercício de porcentagem, primeiro precisamos saber quanto é o valor em porcentagem do preço total, a dica é fazer a lógica cruzada*, **exemplo: Quanto é 5% de R$ 10,00? Só fazer o cálculo: 10*5/100. Depois, faz o cálculo de aumento: preço - (preço*5/100) OU aumento: preço + (preço*5/100)**
