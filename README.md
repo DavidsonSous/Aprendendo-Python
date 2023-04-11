@@ -10,11 +10,11 @@
 
 **2.2 - _Aula 7 Operadores Aritméticos_**
 
-*Nessa aula, vamos aprender quais são os operadores aritméticos do Python e também sua ordem de precedência dentro de expressões matemáticas. Veja como funcionam os operadores de adição, subtração, multiplicação, divisão, exponenciação e quociente na linguagem Python.
+*Nessa aula, vamos aprender quais são os operadores aritméticos do Python e também sua ordem de precedência dentro de expressões matemáticas. Veja como funcionam os operadores de adição, subtração, multiplicação, divisão, exponenciação e quociente na linguagem Python.*
 
-ANOTAÇÕES
+**ANOTAÇÕES**
 
-Operadores
+_Operadores_
 
 Quando queremos testar se duas coisas são iguais umas às outras, usamos dois sinais de iguais ==
 image.png image.png image.png
@@ -23,7 +23,7 @@ Ordem de Precedência
 
 image.png image.png
 
-#LEMBRETES
+*_Lembretes_*
 
 Quando eu quiser quebrar uma linha: \n
 
@@ -31,6 +31,6 @@ Quando eu quiser juntar a linha que foi quebrada por dois prints, basta fazer no
 
 Quando eu quiser limitar o número de casas decimais, basta usar {:.númerof}
 
-#CALCULAR PORCENTAGEM
+_Calcular Porcentagem_
 
-Quando tiver qualquer exercício de porcentagem, primeiro precisamos saber quanto é o valor em porcentagem do preço total, a dica é fazer a lógica cruzada, exemplo: Quanto é 5% de R$ 10,00? Só fazer o cálculo: 105/100. Depois, faz o cálculo de aumento: preço - (preço5/100) OU aumento: preço + (preço*5/100)
+*Quando tiver qualquer exercício de porcentagem, primeiro precisamos saber quanto é o valor em porcentagem do preço total, a dica é fazer a lógica cruzada*, **exemplo: Quanto é 5% de R$ 10,00? Só fazer o cálculo: 105/100. Depois, faz o cálculo de aumento: preço - (preço5/100) OU aumento: preço + (preço*5/100)**
